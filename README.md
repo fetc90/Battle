@@ -38,4 +38,4 @@ As a Player,
 So I can Lose a game of Battle,
 I want to see a 'Lose' message if I reach 0HP first
 
-<img src="https://imgflip.com/i/311brp" alt="Smiley face" height="42" width="42">
+[![Screenshot-2019-05-15-at-17-23-00.png](https://i.postimg.cc/HL4h1M0X/Screenshot-2019-05-15-at-17-23-00.png)](https://postimg.cc/xk8RKc41)
