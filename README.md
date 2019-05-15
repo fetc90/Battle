@@ -37,3 +37,5 @@ I want Player 2's attack to reduce my HP by 10
 As a Player,
 So I can Lose a game of Battle,
 I want to see a 'Lose' message if I reach 0HP first
+
+<img src="https://imgflip.com/i/311brp" alt="Smiley face" height="42" width="42">
